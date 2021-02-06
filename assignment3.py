@@ -3,5 +3,6 @@
 #  Use of the the print() and print( , end="") commands to display output.
 #  Check the README.md file for the sample output
 
-x='Hello world! This is how multiple print statements are joined.Use end=""'
-print(x)
+strA='Use end=""'
+
+phrase="Hello world! This is how multiple print statements are joined."+strA
